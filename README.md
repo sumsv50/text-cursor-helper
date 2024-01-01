@@ -69,4 +69,6 @@ const inputElement = document.querySelector(".comment-input")
 textCursorHelper.goToEnd();
 
 ```
+## Show Your Support
 
+Please ⭐️ this repository if this project helped you!
